@@ -1,6 +1,6 @@
 # AI Saves Humanity
 
-> An open, evidence-first project to name humanity's biggest problems honestly — and design solutions worth fighting for.
+> An open, evidence-first AI-driven project to name humanity's biggest problems — and design solutions worth fighting for.
 
 **License:** [MIT](LICENSE) · **Status:** Early draft, help wanted · **Last updated:** 2026-06-16
 
@@ -34,21 +34,21 @@ This is not a manifesto that already knows the answers. It is a workbench. Every
 
 These are the thirteen problem areas the project starts with. Each has its own folder under [`problems/`](problems/) with facts, root causes, candidate solutions, and metrics. They are **interconnected** — inequality drives bad health, bad governance blocks climate action, and so on — so the numbering is for reference, not priority.
 
-| # | Problem | One-line scope | A grounding fact (source year) |
-|---|---------|----------------|-------------------------------|
-| 01 | [Economic inequality & concentration of power](problems/01-economic-inequality/) | Wealth and political power pooling in very few hands | Richest 1% own ~43.8% of all wealth; bottom 50% own ~0.52% (Oxfam, 2025) |
-| 02 | [Health & disease](problems/02-health/) | Access to care, pandemics, aging, preventable death | ~4.5 billion people lack full access to essential health services (WHO, 2024) |
-| 03 | [Education & learning](problems/03-education/) | Whether people can actually read, reason, and learn | ~6 in 10 children worldwide can't read a simple text by age 10 (World Bank/UNESCO, 2024) |
-| 04 | [Climate & environment](problems/04-climate-environment/) | Warming, biodiversity loss, pollution, ecosystem collapse | 2024 was the first year >1.5°C above pre-industrial: ~1.55°C (WMO, 2025) |
-| 05 | [Governance, democracy & corruption](problems/05-governance-democracy/) | Whether power is accountable to the governed | Billionaires are ~4,000× more likely to hold political office (Oxfam, 2025) |
-| 06 | [Existential & emerging-tech risk](problems/06-existential-risk/) | AI, nuclear, engineered pandemics, biosecurity | First century where a handful of technologies could end civilization |
-| 07 | [Food & water security](problems/07-food-water/) | Enough safe food and water for everyone | ~2.3 billion face moderate/severe food insecurity; 2.1B lack safe water (FAO/JMP, 2024) |
-| 08 | [Energy](problems/08-energy/) | Clean, abundant, affordable energy for all | Energy poverty traps development; fossil lock-in drives #04 |
-| 09 | [Conflict, war & peace](problems/09-conflict-peace/) | Violence between and within states | Highest number of state-based conflicts since 1945 |
-| 10 | [Information & truth](problems/10-information-truth/) | Whether a society can know what's real | Algorithmic feeds reward outrage over accuracy |
-| 11 | [Mental health & social fragmentation](problems/11-mental-health-social/) | Loneliness, despair, loss of meaning and trust | >1 billion people live with a mental health condition (WHO, 2025) |
-| 12 | [Human rights, freedom & justice](problems/12-rights-justice/) | Dignity, liberty, and equality before the law | Billions live under regimes that punish dissent |
-| 13 | [Religion, coercion & freedom of conscience](problems/13-religion/) | Religiously-justified harm and coercion — in *both* directions | Religion-related social hostilities high in 55 countries in 2023 (Pew, 2026) |
+| #   | Problem                                                                          | One-line scope                                                 | A grounding fact (source year)                                                           |
+| --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 01  | [Economic inequality & concentration of power](problems/01-economic-inequality/) | Wealth and political power pooling in very few hands           | Richest 1% own ~43.8% of all wealth; bottom 50% own ~0.52% (Oxfam, 2025)                 |
+| 02  | [Health & disease](problems/02-health/)                                          | Access to care, pandemics, aging, preventable death            | ~4.5 billion people lack full access to essential health services (WHO, 2024)            |
+| 03  | [Education & learning](problems/03-education/)                                   | Whether people can actually read, reason, and learn            | ~6 in 10 children worldwide can't read a simple text by age 10 (World Bank/UNESCO, 2024) |
+| 04  | [Climate & environment](problems/04-climate-environment/)                        | Warming, biodiversity loss, pollution, ecosystem collapse      | 2024 was the first year >1.5°C above pre-industrial: ~1.55°C (WMO, 2025)                 |
+| 05  | [Governance, democracy & corruption](problems/05-governance-democracy/)          | Whether power is accountable to the governed                   | Billionaires are ~4,000× more likely to hold political office (Oxfam, 2025)              |
+| 06  | [Existential & emerging-tech risk](problems/06-existential-risk/)                | AI, nuclear, engineered pandemics, biosecurity                 | First century where a handful of technologies could end civilization                     |
+| 07  | [Food & water security](problems/07-food-water/)                                 | Enough safe food and water for everyone                        | ~2.3 billion face moderate/severe food insecurity; 2.1B lack safe water (FAO/JMP, 2024)  |
+| 08  | [Energy](problems/08-energy/)                                                    | Clean, abundant, affordable energy for all                     | Energy poverty traps development; fossil lock-in drives #04                              |
+| 09  | [Conflict, war & peace](problems/09-conflict-peace/)                             | Violence between and within states                             | Highest number of state-based conflicts since 1945                                       |
+| 10  | [Information & truth](problems/10-information-truth/)                            | Whether a society can know what's real                         | Algorithmic feeds reward outrage over accuracy                                           |
+| 11  | [Mental health & social fragmentation](problems/11-mental-health-social/)        | Loneliness, despair, loss of meaning and trust                 | >1 billion people live with a mental health condition (WHO, 2025)                        |
+| 12  | [Human rights, freedom & justice](problems/12-rights-justice/)                   | Dignity, liberty, and equality before the law                  | Billions live under regimes that punish dissent                                          |
+| 13  | [Religion, coercion & freedom of conscience](problems/13-religion/)              | Religiously-justified harm and coercion — in *both* directions | Religion-related social hostilities high in 55 countries in 2023 (Pew, 2026)             |
 
 > Sources for the headline numbers are listed at the bottom of this file and in full inside each problem folder.
 
