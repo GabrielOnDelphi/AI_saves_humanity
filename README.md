@@ -2,7 +2,7 @@
 
 > An open, evidence-first AI-driven project to name humanity's biggest problems — and design solutions worth fighting for.
 
-**License:** [MIT](LICENSE) · **Status:** Early draft, help wanted · **Last updated:** 2026-06-16
+**License:** [MIT](LICENSE) · **Status:** Early draft
 
 ---
 
@@ -10,13 +10,16 @@
 
 Most of the suffering on this planet is not caused by a lack of resources. It is caused by how we organize ourselves: who gets the money, who gets the medicine, who gets to decide. We already grow enough food to feed everyone and still ~673 million people go hungry. We are rich enough to give everyone clean water and 2.1 billion people still don't have it safely at home.
 
-This repository is an attempt to do three things, in order:
+This repository is an attempt to do four things, in order:
 
 1. **Name the problems clearly**, with real numbers from primary sources (WHO, World Bank, UN, IPCC, Oxfam, the World Inequality Lab), not vibes.
 2. **Trace each problem to its root causes**, because treating symptoms forever is how we got here.
 3. **Design and debate solutions** — including uncomfortable, ambitious, and politically hard ones — and be honest about their trade-offs.
+4. **Confront the transition** — *how* any of this actually happens against the people who profit from the status quo and control the levers. This is the part almost every reform effort skips, and it is why they failed.
 
 This is not a manifesto that already knows the answers. It is a workbench. Every claim should be checkable; every proposal should survive criticism before it earns trust.
+
+**The central insight.** We are not short of good policy ideas — we have had them for a century. Progressive taxation, antitrust, universal health coverage: all proposed, repeatedly, by serious people. They don't fail because we don't know the answer. They fail at the **transition**, because the people who must approve the fix are the people the fix threatens. So this project's spine is not another problem or another policy — it is **[how change actually happens against entrenched power](proposals/00-how-change-happens/)**. Everything else here orbits that question.
 
 ---
 
@@ -49,8 +52,24 @@ These are the thirteen problem areas the project starts with. Each has its own f
 | 11  | [Mental health & social fragmentation](problems/11-mental-health-social/)        | Loneliness, despair, loss of meaning and trust                 | >1 billion people live with a mental health condition (WHO, 2025)                        |
 | 12  | [Human rights, freedom & justice](problems/12-rights-justice/)                   | Dignity, liberty, and equality before the law                  | Billions live under regimes that punish dissent                                          |
 | 13  | [Religion, coercion & freedom of conscience](problems/13-religion/)              | Religiously-justified harm and coercion — in *both* directions | Religion-related social hostilities high in 55 countries in 2023 (Pew, 2026)             |
+| 14  | [Democratic backsliding](problems/14-democratic-backsliding/)                    | How democracies decay into autocracy — and how to stop it      | Global freedom fell for a 20th straight year; only 21% live in "Free" countries (Freedom House, 2026) |
 
 > Sources for the headline numbers are listed at the bottom of this file and in full inside each problem folder.
+
+---
+
+## The spine: how change actually happens
+
+Every problem above has known, debated solutions. The reason the world still looks like this is not a shortage of answers — it's that **good solutions die at the transition**, blocked by the people they threaten. So the organizing center of this project is one proposal that everything else hangs from:
+
+➡️ **[`proposals/00-how-change-happens/`](proposals/00-how-change-happens/)** — the transition problem, the leverage points we've been ignoring ([Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)), the evidence on what actually shifts entrenched power ([nonviolent mass movements beat violent ones ~2:1; the 3.5% rule](https://en.wikipedia.org/wiki/3.5%25_rule)), and the **four doors** out of a captured status quo:
+
+1. **Reform** from within — change the rules using the system's own mechanisms.
+2. **Defend** what works — stop democracies sliding into autocracy ([#14](problems/14-democratic-backsliding/); the concrete fix in [defending democracy](proposals/defending-democracy/)).
+3. **Exit and build new** — design a clean polity from scratch ([founding a country](proposals/country-and-citizenship/)).
+4. **The new variable: AI** — which could empower citizens or entrench whoever owns the model ([AI and power](proposals/ai-and-power/)), and decides whether we can still [tell true from false at all](proposals/information-integrity/).
+
+**The rule this creates:** every proposal in this repo must include a **"transition path"** — who would block it, which door gets past them, and the smallest first move. A proposal without one is a wish, not a plan.
 
 ---
 
@@ -64,6 +83,10 @@ The founder's original idea: **every person votes directly for the head of state
 
 It is written the way everything here should be written: the idea stated fairly, then stress-tested hard. (Short version: the *goal* — better-informed collective decisions — is worth pursuing, but weighting votes by formal education is the exact mechanism history used for disenfranchisement, so the folder also lays out designs that reach the same goal without taking the vote away from anyone.)
 
+**Is "democracy" even the right target?** A deeper proposal argues it is a *proxy* — for accountable power and flourishing lives — that has been [captured](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B) (the average citizen has near-zero independent influence on policy), and that we should measure and optimize the *target*, not the proxy — while keeping the catastrophe-insurance that democracy uniquely provides (no famine in a functioning democracy; far lower risk of collapse):
+
+➡️ **[`proposals/beyond-democracy/`](proposals/beyond-democracy/)**
+
 ---
 
 ## Repository structure
@@ -71,15 +94,21 @@ It is written the way everything here should be written: the idea stated fairly,
 ```
 AI-saves-humanity/
 ├── README.md            ← you are here (the map)
+├── ROADMAP.md           ← what we're building next, organized around the transition spine
 ├── LICENSE              ← MIT
 ├── CONTRIBUTING.md      ← how to add facts, problems, and proposals
-├── problems/            ← one folder per problem area
+├── problems/            ← one folder per problem area (01–14)
 │   ├── 01-economic-inequality/
-│   ├── 02-health/
-│   ├── 03-education/
-│   └── ...
+│   ├── ...
+│   └── 14-democratic-backsliding/
 └── proposals/           ← concrete solutions worth debating
-    └── political-system/
+    ├── 00-how-change-happens/   ← THE SPINE: change against entrenched power
+    ├── beyond-democracy/        ← reframes the GOAL: target, not proxy
+    ├── political-system/
+    ├── defending-democracy/     ← Door 2: stop the slide
+    ├── ai-and-power/             ← Door 4: the keystone
+    ├── information-integrity/    ← Door 4: truth without a Ministry of Truth
+    └── country-and-citizenship/  ← Door 3: build new
 ```
 
 Each problem folder follows the same template: **Scope → Key facts → Root causes → Why it connects to everything else → Candidate solutions (with trade-offs) → Metrics we'd watch → Open questions → Sources.**
