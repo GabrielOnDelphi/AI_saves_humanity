@@ -4,6 +4,10 @@
 
 > This is the founding proposal of the project. It is written the way every proposal here should be: **the idea stated fairly first, then stress-tested without mercy.** The goal is not to win the argument for or against — it's to find the version that actually survives.
 
+> **Deeper reframe (read alongside this):** [`beyond-democracy`](../beyond-democracy/) argues the founder's instinct — that conventional democracy underperforms — is *right*, but aimed one layer too high. The real target isn't *who votes* (this proposal's question) but *who captures the outcome* ([Gilens-Page](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B): elites, not voters, drive policy). It relocates the goal from "better democracy" to "accountable power + flourishing," which sortition and liquid delegation reach without the dangers of vote-weighting below.
+
+> **Owner pushback + improved version (2026-06-30):** the owner challenged the quick dismissal of (B) — *"why drop it because one critic said so? Every system failed at least once."* — and proposed a **self-liquidating** design: educate the excluded → their vote weighs more → they vote for more education → the gap closes as schooling becomes universal. That improved version is taken seriously and stress-tested (by structure, not authority) in [`epistocracy-improved.md`](epistocracy-improved.md). Verdict: **the goal and the positive loop are good; vote-weighting is the wrong engine** — it inverts the incentives and hands whoever defines "educated" a dial to capture the electorate. Keep the loop; run it on equal votes + deliberation.
+
 ---
 
 ## 1. The proposal, as stated
