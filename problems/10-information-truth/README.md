@@ -32,6 +32,8 @@ Whether a society can know what is real and reason together about it. In scope: 
 
 ## Candidate solutions (with trade-offs)
 
+> **Full solutions proposal: [`proposals/information-integrity`](../../proposals/information-integrity/)** — what the evidence says actually works (prebunking/inoculation, friction, corrections) and why a "Ministry of Truth" is both the weakest and the most dangerous answer.
+
 1. **Change platform incentives** — rank for accuracy/quality, add friction, transparency on algorithms, and on advertising. *For:* attacks the root incentive. *Objection:* who defines "quality"? Risk of bias and censorship; platform resistance.
 2. **Media & information literacy at scale** (link to #03). *For:* durable, empowers individuals, hard to abuse. *Objection:* slow; doesn't stop today's flood.
 3. **Provenance & authenticity standards** — cryptographic content provenance, AI-content labeling. *For:* helps distinguish real from synthetic. *Objection:* gameable; adoption must be near-universal to matter.
