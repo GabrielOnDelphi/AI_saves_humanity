@@ -6,6 +6,8 @@
 
 Whether power is accountable to the people it governs — or captured by the few. In scope: democratic design and decline, corruption, state capacity, rule of law's *application*, and the money→power loop. This is the **decision-making layer**: almost every other problem is gated by whether we can make and enforce good collective choices. It is also where the project's founding proposal lives — a redesign of how we elect leaders (see [`proposals/political-system/`](../../proposals/political-system/)).
 
+> **The goal-level question:** is "democracy" even the right target? [`proposals/beyond-democracy`](../../proposals/beyond-democracy/) argues it's a *proxy* — for accountable power + flourishing — that has been captured (the average citizen has [near-zero independent influence on U.S. policy](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B)). It reframes this whole folder: measure and optimize the *target*, not the proxy.
+
 ## Key facts
 
 - Billionaires are **~4,000× more likely to hold political office** than ordinary citizens — a direct measurement of money converting into power. *(Oxfam, 2025)*
