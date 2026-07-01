@@ -66,7 +66,7 @@ These are not stupid. The question, as always here, is whether the cure (concent
 
 - Is there a **stable equilibrium** where AI empowers citizens, or does it inevitably tip toward whoever has the most compute? *(The crux of the entire project's title.)*
 - Can you get the **safety** of a closed model **and** the **power-dispersion** of an open one — or is that a real either/or (§3.1)?
-- Does "public AI" reduce owner-power, or just **move** it to whoever controls the state?
+- Does "public AI" reduce owner-power, or just **move** it to whoever controls the state? → taken up as a full proposal in [`ai-sovereign`](../ai-sovereign/) (distributed *k-of-n* off-switch + democratically-set objective + corrigibility).
 - What exactly stops an AI-enforcement apparatus from removing the cooperation-dependence that has always, eventually, let people overthrow tyranny (§2)?
 
 ## 9. Sources
