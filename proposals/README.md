@@ -8,6 +8,8 @@ A proposal with no real "Objections" section is incomplete. The point is not to 
 
 **New required section — the transition path.** Per [`00-how-change-happens`](00-how-change-happens/), every proposal must answer: *who would block this, which of the four doors gets past them, and what is the smallest first move?* A proposal without a transition path is a wish, not a plan — and is labeled as such.
 
+**Standing method rule — the capture test.** When a proposal meets a *"but who controls X?"* / *"that's a capture surface"* objection, it must apply that objection **evenly to democracy's existing version of the same classifier** (franchise rules, districting, GDP, platform algorithms, school boards — all captured too) and judge **comparatively**, never as a binary kill shot. See [`the-capture-test.md`](the-capture-test.md).
+
 ## Current proposals
 
 | Proposal | Tackles | Status |
@@ -19,6 +21,7 @@ A proposal with no real "Objections" section is incomplete. The point is not to 
 | [AI and power: integration without an over-powerful owner](ai-and-power/) | [#06](../problems/06-existential-risk/), [#01](../problems/01-economic-inequality/) — Door 4 | Draft for debate — **the keystone** |
 | [Founding a country: how a new polity would be led](country-and-citizenship/) | [#05](../problems/05-governance-democracy/) — Door 3 | Draft for debate |
 | [Information integrity: countering misinformation without a Ministry of Truth](information-integrity/) | [#10](../problems/10-information-truth/) — Door 4 | Draft for debate |
+| [**The machine sovereign: an AI head of state → a *constrained executive***](ai-sovereign/) | [#06](../problems/06-existential-risk/), [#05](../problems/05-governance-democracy/) — Door 4 | Draft for debate — **builds [radical-options](beyond-democracy/radical-options.md) Opt 1; tackles the off-switch problem head-on** |
 
 ## Add your own
 
