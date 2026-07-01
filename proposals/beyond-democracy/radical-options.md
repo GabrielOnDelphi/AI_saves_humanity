@@ -23,7 +23,7 @@ So the honest verdict isn't "no benevolent dictator." It's **"no *human* one —
 - **Reversibility has a limit:** you can roll back the *decider* in seconds, but a war it started or money it spent is as sticky as ever — so it *still* needs reversibility-grading on irreversible acts ([frontier-mechanisms §2](frontier-mechanisms.md)).
 - **Legitimacy / consent:** people may refuse to be ruled by a machine even if outcomes are good — and refused legitimacy is its own failure mode.
 
-**Verdict: not dismissed.** It is the single idea that turns the benevolent-dictator dream from "impossible" into "the most dangerous *and* most promising option on the board." Worth a full proposal of its own.
+**Verdict: not dismissed.** It is the single idea that turns the benevolent-dictator dream from "impossible" into "the most dangerous *and* most promising option on the board." Worth a full proposal of its own — **now built: [`ai-sovereign`](../ai-sovereign/)** (the off-switch problem tackled with corrigibility research + a distributed *k-of-n* kill-switch; honest landing = a *constrained executive*, not a sovereign).
 
 ---
 
