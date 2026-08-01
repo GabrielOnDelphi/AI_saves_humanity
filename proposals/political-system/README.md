@@ -1,6 +1,6 @@
 # Proposal · A New Kind of Democracy: Direct Election, Education-Weighted Voting
 
-**Status:** Draft for debate · **Last updated:** 2026-06-16 · Relates to [problem #05 Governance](../../problems/05-governance-democracy/), [#03 Education](../../problems/03-education/), [#12 Rights & Justice](../../problems/12-rights-justice/)
+**Status:** Draft for debate · **Last updated:** 2026-07-27 · Relates to [problem #05 Governance](../../problems/05-governance-democracy/), [#03 Education](../../problems/03-education/), [#12 Rights & Justice](../../problems/12-rights-justice/)
 
 > This is the founding proposal of the project. It is written the way every proposal here should be: **the idea stated fairly first, then stress-tested without mercy.** The goal is not to win the argument for or against — it's to find the version that actually survives.
 
@@ -117,16 +117,62 @@ This keeps the founder's actual aim — *wiser collective decisions* — and dro
 
 ---
 
-## 8. Open questions
+## 8. Transition path (who blocks this · which door · smallest first move)
+
+Required by the spine, [`00-how-change-happens`](../00-how-change-happens/): a proposal without a transition path is a wish, not a plan. This one has three parts to move, and they face completely different blockers.
+
+### 8.1 Who blocks it
+
+**(A) Direct election of the head of state.** The blocker is not the public — it is whoever draws power from the *intermediary*. In the U.S. case that is the Electoral College: small states are over-weighted per capita, swing states collect the attention and the spending, and whichever party expects to win the intermediary defends it. The formal route (Article V: two-thirds of both chambers plus three-quarters of the states) hands a veto to precisely the states the reform would demote. This is the transition problem in its purest form — **the fix must be approved by the people it costs.**
+
+**(B) Education-weighted voting.** Blocked by nearly everyone, and correctly so (§4). It has **no viable transition path**, and that is a second, independent reason not to ship it: a rule that strips weight from most voters cannot be adopted *by* those voters, so it could only ever arrive by imposition. A reform that can only be imposed is not a democratic reform.
+
+**Tier 1 (sortition assemblies, liquid delegation).** Blocked more softly and far more effectively — by **dilution**. No incumbent needs to defeat a citizens' assembly; they need only convene it, thank it, and rewrite its recommendation on the way to the ballot. The Irish evidence below shows exactly what that costs.
+
+### 8.2 Which door
+
+**Door 1 — reform from within, routing *around* the veto point rather than through it.** Two live cases show both what works and what it costs.
+
+- **The side door works.** U.S. states hold plenary power over how they appoint electors, so a national popular vote is reachable **without amending anything**. The National Popular Vote Interstate Compact has been adopted by 18 states plus D.C. — **222 electoral votes, 82.2% of the 270 needed, 48 short** — with Virginia joining on 13 April 2026 ([NPVIC, as of July 2026](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)). That is Door 1 done properly: the system's own mechanism used to bypass the system's blocking point.
+- **But count the counter-mobilization honestly.** Ranked-choice voting is the ballot-design half of recommendation (A), and it is currently **losing ground**. In use: 49 jurisdictions reaching ~14 million voters across 22 states and D.C., with Maine ([Question 5, 2016](https://fairvote.org/our-reforms/ranked-choice-voting-information/)) and Alaska (2020) statewide. Against it: **19 states have banned or restricted RCV as of March 2026** — five states plus a Missouri ballot measure in 2024, five more in 2025 (Arkansas, Kansas, North Dakota, West Virginia, Wyoming), then Indiana and Ohio in 2026 ([overview](https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States)) — five states rejected RCV measures in 2024, and Alaska's repeal **failed by just 737 votes**, with [a fresh repeal initiative qualified for the 2026 ballot](https://ballotpedia.org/Alaska_Repeal_Top-Four_Ranked-Choice_Voting_Initiative_(2026)).
+
+**The lesson is uncomfortable and belongs here rather than in a footnote: the blockers are currently organizing faster than the reformers.** Adoption and repeal run on the same machinery, so any plan that assumes "pass it once and it stays passed" is wrong. **Defending an existing reform has to be budgeted as heavily as winning a new one.**
+
+### 8.3 The smallest first move
+
+Not a campaign for weighted voting, and not a constitutional amendment. The smallest move that is real, cheap, and reversible:
+
+> **Run one citizens' assembly on a single contested question, under a written no-dilution rule: whatever the assembly recommends goes to the ballot as recommended, or the government must publish its reasons for every change it makes.**
+
+Why this one:
+
+- **It is the only Tier 1 mechanism with a tested record of moving a deadlocked question through a real electorate.** Ireland's Convention on the Constitution (2012–14) led to the 2015 marriage-equality referendum, passed with 62%; the [Citizens' Assembly](https://www.citizenassembly.ie/work/) (2016–18, 99 randomly-selected citizens broadly representative of the population) led to the 2018 repeal of the Eighth Amendment, passed with 66%. Both were questions ordinary party politics had been stuck on for decades.
+- **And the failure case is what supplies the rule.** In March 2024 Ireland's Family and Care referendums — which originated in the Citizens' Assembly on Gender Equality but reached the ballot *after the government rewrote the recommendations* — were defeated by **67.7% and 73.9% No, the largest referendum defeat in Irish history** ([Electoral Commission](https://www.electoralcommission.ie/referendum/referendums-on-family-and-care/); [Irish Times](https://www.irishtimes.com/politics/2024/03/09/family-and-care-referendums-comprehensively-defeated/)). What failed was not sortition; it was the [dilution of what the assembly actually said](https://www.sortitionfoundation.org/embarrassment_for_irish_politicians). That makes the no-dilution rule the load-bearing part of the design, not a nicety.
+- **It costs no incumbent anything on day one**, needs no constitutional change, and is cheap to reverse if it goes badly — the exact property [`beyond-democracy`](../beyond-democracy/) argues we should be optimizing for.
+
+### 8.4 The sequence
+
+1. **One assembly, one question, no-dilution rule.** Small cost, no immediate loser, and it generates the track record everything else needs.
+2. **Ballot design where it can already win** — runoff or ranked-choice in jurisdictions that permit it — while treating *repeal defense* as equal in priority to new adoption. The 737-vote Alaska margin is the honest measure of how thin this is.
+3. **Direct election through the side door** — the NPVIC-style route, which needs no amendment and stands 48 electoral votes short.
+4. **Only then** the constitutional question, backed by a demonstrated record instead of an argument.
+
+Note what has no step 1: **(B)**. That is the finding, not an oversight.
+
+---
+
+## 9. Open questions
 
 - Is there *any* version of competence-weighting that escapes the demographic objection? (Brennan himself is unsure. The project's working answer: not safely — prefer deliberation and delegation.)
 - Can deliberative assemblies be given *binding* power without losing the legitimacy that makes them work?
 - For direct national election (A), how do you prevent pure populism / demagoguery without disenfranchising anyone? (Part of the answer is [#03](../../problems/03-education/) and [#10](../../problems/10-information-truth/).)
-- How do you transition from a captured status quo ([#05](../../problems/05-governance-democracy/)) to *any* of these without the incumbents blocking it?
+- How do you transition from a captured status quo ([#05](../../problems/05-governance-democracy/)) to *any* of these without the incumbents blocking it? **(Answered as far as the evidence allows in §8 — Door 1 through the side door, starting with one no-dilution assembly.)**
+- **(New)** *Why* is RCV being repealed where it has been tried — the mechanism itself, genuine voter confusion, or a well-funded partisan counter-campaign? The answer decides whether step 2 above is worth defending or worth trading away.
+- **(New)** Can the no-dilution rule be made binding without handing whoever *writes the assembly's question* the same capture surface this proposal rejects in §4? Agenda-setting is the last unguarded lever — apply [the capture test](../the-capture-test.md) to it rather than assuming it is clean.
 
 ---
 
-## 9. Sources & further reading
+## 10. Sources & further reading
 
 - John Stuart Mill, *Considerations on Representative Government* (1861) — the original plural-voting argument.
 - Jason Brennan, *Against Democracy* (2016) — modern defense of epistocracy **and** its strongest self-criticism (the demographic objection).
@@ -134,5 +180,16 @@ This keeps the founder's actual aim — *wiser collective decisions* — and dro
 - Hélène Landemore, *Democratic Reason* (2013) and *Open Democracy* (2020) — the case that inclusive, deliberative democracy is *epistemically* superior to rule by the few.
 - OECD, *Innovative Citizen Participation and New Democratic Institutions* ("the deliberative wave") — evidence base for sortition/assemblies: https://www.oecd.org/gov/innovative-citizen-participation.htm
 - On the U.S. history of literacy tests as disenfranchisement tools — see the historical record of Jim Crow voting laws and the Voting Rights Act of 1965.
+
+**For the transition path (§8), all checked 2026-07-27:**
+
+- National Popular Vote Interstate Compact — 18 states + D.C., 222 electoral votes (82.2% of 270), Virginia enacted 13 April 2026: https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact
+- Ranked-choice voting in the United States — 19 states banning or restricting it as of March 2026, with the 2024–26 ban wave listed by state: https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States
+- FairVote, *Ranked Choice Voting Information* — the adoption tracker (49 jurisdictions, ~14M voters, 22 states + D.C.). Note: FairVote advocates for RCV; the count is theirs: https://fairvote.org/our-reforms/ranked-choice-voting-information/
+- Ballotpedia, *Alaska Repeal Top-Four Ranked-Choice Voting Initiative (2026)* — the 2024 repeal failed by 737 votes; a new initiative qualified for 2026: https://ballotpedia.org/Alaska_Repeal_Top-Four_Ranked-Choice_Voting_Initiative_(2026)
+- The Citizens' Assembly (Ireland), *Work of the Assembly 2016–2018* — 99 randomly-selected citizens; the abortion recommendation that became the 2018 referendum: https://www.citizenassembly.ie/work/
+- Electoral Commission (Ireland), *Referendums on Family and Care* — the official March 2024 results (67.7% and 73.9% No): https://www.electoralcommission.ie/referendum/referendums-on-family-and-care/
+- *Family and care referendums comprehensively defeated*, The Irish Times, 9 March 2024: https://www.irishtimes.com/politics/2024/03/09/family-and-care-referendums-comprehensively-defeated/
+- Sortition Foundation, on the dilution of the assembly's recommendations before the 2024 ballot: https://www.sortitionfoundation.org/embarrassment_for_irish_politicians
 
 *If you want to defend education-weighted voting, the most useful contribution you can make is a design that survives objection #3 (the demographic/feedback-loop objection) and objection #4 (the historical track record). If it can't, it shouldn't ship.*
