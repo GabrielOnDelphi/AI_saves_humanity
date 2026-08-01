@@ -35,7 +35,7 @@ This is not a manifesto that already knows the answers. It is a workbench. Every
 
 ## The biggest problems (the founding list)
 
-These are the thirteen problem areas the project starts with. Each has its own folder under [`problems/`](problems/) with facts, root causes, candidate solutions, and metrics. They are **interconnected** — inequality drives bad health, bad governance blocks climate action, and so on — so the numbering is for reference, not priority.
+These are the fourteen problem areas the project starts with. Each has its own folder under [`problems/`](problems/) with facts, root causes, candidate solutions, and metrics. They are **interconnected** — inequality drives bad health, bad governance blocks climate action, and so on — so the numbering is for reference, not priority.
 
 | #   | Problem                                                                          | One-line scope                                                 | A grounding fact (source year)                                                           |
 | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -107,6 +107,7 @@ AI-saves-humanity/
     ├── political-system/
     ├── defending-democracy/     ← Door 2: stop the slide
     ├── ai-and-power/             ← Door 4: the keystone
+    ├── ai-sovereign/             ← Door 4: AI head of state → constrained executive
     ├── information-integrity/    ← Door 4: truth without a Ministry of Truth
     └── country-and-citizenship/  ← Door 3: build new
 ```
